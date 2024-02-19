@@ -179,3 +179,5 @@ while running:
     # Limit/fix frame rate (fps)
     clock.tick(50)
     tick += 1
+
+# hej mathias
